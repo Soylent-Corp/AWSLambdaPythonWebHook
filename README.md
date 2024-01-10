@@ -1,5 +1,5 @@
 # AWSLambdaPythonWebHook
-Python Code for GitHub Webhook listener.
+Python Code for GitHub Webhook listener to be deployed on AWS Lambda on Python 3.8 environment. Supports 2 protection mechanisms for demonstration purposes to protect the main branch after the initial commit of code (as the main branch is only created after the first commit and not after the repository is created).
 
 ## Installation
 1. Create least privilege fine grained Bearer Token in your GitHub Org with permissions:
