@@ -27,4 +27,4 @@ The solution can be further modified with additional environment variables in th
   - `restrictions` to teams and users
   - ...
 
-Adding the variables will also require to change the `protJSON` JSON sent to the protection endpoint accordingly, making it to some extent a diligence, but a one tie only work unless the GitHub API changes and provides additional parameters.
+Adding the variables will also require to change the `protJSON` JSON sent to the protection endpoint accordingly, making it to some extent a diligence, but a one time only work unless the GitHub API changes and provides additional parameters.
